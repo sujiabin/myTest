@@ -46,3 +46,8 @@ void ddd()
 void ooo()
 {
 }
+
+int del()
+{
+	return 0;
+}
