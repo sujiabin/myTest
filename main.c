@@ -27,3 +27,7 @@ void b()
 void c()
 {
 }
+
+void cc()
+{
+}
