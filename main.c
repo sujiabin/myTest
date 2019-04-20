@@ -51,3 +51,7 @@ int del()
 {
 	return 0;
 }
+
+int hello()
+{
+}
