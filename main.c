@@ -19,3 +19,7 @@ int mytest()
 void a()
 {
 }
+
+void b()
+{
+}
