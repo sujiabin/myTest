@@ -15,3 +15,7 @@ int mytest()
 	
 	return a + b;
 }
+
+void a()
+{
+}
