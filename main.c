@@ -31,3 +31,9 @@ void c()
 void cc()
 {
 }
+
+
+void function (params)
+{
+	
+}
