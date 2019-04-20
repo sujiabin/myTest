@@ -7,3 +7,11 @@ int test()
 {
 	return 0;
 }
+
+int mytest()
+{
+	int a;
+	int b;
+	
+	return a + b;
+}
