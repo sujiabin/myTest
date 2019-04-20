@@ -42,3 +42,7 @@ void function (params)
 void ddd()
 {
 }
+
+void ooo()
+{
+}
