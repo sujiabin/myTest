@@ -12,7 +12,7 @@ int mytest()
 {
 	int a;
 	int b;
-	
+
 	return a + b;
 }
 
@@ -32,12 +32,9 @@ void cc()
 {
 }
 
-
-void function (params)
+void function(params)
 {
-	
 }
-
 
 void ddd()
 {
@@ -52,14 +49,23 @@ int del()
 	return 0;
 }
 
-int hello()
-{
-buheool	
-	
+int hello(){
+	buheool
+
 }
 
 opopo
 
-[][][]
+	[][][]
 
-popo
+	void func(void *p)
+{
+	int a;
+	int b;
+	int c = a * 34 + b;
+	return;
+}
+
+void dd()
+{
+}
